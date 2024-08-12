@@ -13,3 +13,5 @@ A Node.js-based real-time tracking app using Express, Socket.IO, and Leaflet.js.
 - **Socket.IO**: Library for real-time, bidirectional communication between server and clients.
 - **Leaflet.js**: Mapping library for interactive map visualization.
 - **EJS**: Templating engine for rendering HTML views.
+
+
