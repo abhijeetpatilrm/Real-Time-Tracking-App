@@ -18,4 +18,8 @@ A Node.js-based real-time tracking app using Express, Socket.IO, and Leaflet.js.
 
 Check out the live version of the app: [Real-Time Tracking App](https://real-time-tracking-app-1.onrender.com)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
