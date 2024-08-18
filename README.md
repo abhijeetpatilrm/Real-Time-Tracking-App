@@ -14,4 +14,8 @@ A Node.js-based real-time tracking app using Express, Socket.IO, and Leaflet.js.
 - **Leaflet.js**: Mapping library for interactive map visualization.
 - **EJS**: Templating engine for rendering HTML views.
 
+ ## Live Demo
+
+Check out the live version of the app: [Real-Time Tracking App](https://real-time-tracking-app-1.onrender.com)
+
 
