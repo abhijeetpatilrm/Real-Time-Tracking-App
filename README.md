@@ -60,20 +60,7 @@ The **Real-Time Tracking App** enables **live location monitoring** by leveragin
 
 ---
 
-## 🚀 Getting Started
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/abhijeetpatilrm/Real-Time-Tracking-App.git
-
-# 2. Navigate to the project directory
-cd Real-Time-Tracking-App
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the server
-node app.js
 
 ## 🙋‍♂️ Author
 
