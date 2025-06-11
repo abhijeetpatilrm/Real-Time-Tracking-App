@@ -76,8 +76,10 @@ npm install
 node app.js
 
 
-💼 Author
-Abhijeet Patil
-🌐 LinkedIn
-📫 abhijeetpatilhnl@gmail.com
-💻 GitHub
+## 💼 Author
+
+**Abhijeet Patil**  
+🌐 [LinkedIn](https://www.linkedin.com/in/abhijeet-patil-b23b94228)  
+📫 abhijeetpatilhnl@gmail.com  
+💻 [GitHub](https://github.com/abhijeetpatilrm)
+
