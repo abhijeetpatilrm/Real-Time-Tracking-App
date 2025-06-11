@@ -74,3 +74,10 @@ npm install
 
 # 4. Start the server
 node app.js
+
+
+💼 Author
+Abhijeet Patil
+🌐 LinkedIn
+📫 abhijeetpatilhnl@gmail.com
+💻 GitHub
