@@ -57,11 +57,6 @@ The **Real-Time Tracking App** enables **live location monitoring** by leveragin
 
 ---
 
-## 📸 Screenshots
-
-| Real-Time Map View | Multi-User Tracking |
-|--------------------|---------------------|
-| ![map](https://i.imgur.com/NkHNmAK.png) | ![multiuser](https://i.imgur.com/WX9CF6H.png) |
 
 ---
 
